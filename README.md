@@ -1,4 +1,4 @@
-# javascript-challenge
+# Javascript-challenge
 Data analysis using JavaScript, HTML, and CSS, and D3.js
 <hr></hr>
 <p align="justify">
