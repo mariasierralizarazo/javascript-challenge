@@ -3,7 +3,7 @@ Data analysis using JavaScript, HTML, and CSS, and D3.js
 <hr></hr>
 <p align="justify">
 Even though doing a good data analysis is very important, the way how data is presented also has a very significant value. 
-In this project, the main goal was to append complete and filter given data to the given website. <br/>
+In this project, the main goal was to append complete and filtered given data to the given website. <br/>
 In 
 <a href="https://github.com/mariasierralizarazo/javascript-challenge/tree/master/UFO-level-1"> UFO-level-1 </a>, the user would be able to see all the information
 in the table as soon as he/she opens the website; however, the website will also allow filter the table per date. If the entered date is not registered in the data, 
